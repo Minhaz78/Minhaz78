@@ -1,6 +1,6 @@
 ![MINHAZ's GitHub background](http://www.anikhossain.com/wp-content/uploads/2021/07/multi.gif)
 <h1 align="center">Hi there <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">I'm Minhaz Uddin. </h1>
-<h3 align="center">I am a pre-final year engineering student at Banasthali Vidyapith. I make it my mission to translate user-focused designs into pixel-perfect websites and applications that run blazing fast.</h3>
+<h3 align="center">I am a pre-final year engineering student at premier university. I make it my mission to translate user-focused designs into pixel-perfect websites and applications that run blazing fast.</h3>
 
 - 🌱 I’m currently learning **React and Flutter.**
 
