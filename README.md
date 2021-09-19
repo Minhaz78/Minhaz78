@@ -1,4 +1,4 @@
-![MINHAZ's GitHub background](https://scontent.fdac116-1.fna.fbcdn.net/v/t1.6435-9/49142246_1034509696745527_6376343803812380672_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_ohc=xkaW8ITkzTIAX_ya03o&tn=CiCzk79mHol2YIwa&_nc_ht=scontent.fdac116-1.fna&oh=6615a35363444703eb5011b811b2bca1&oe=616DE64C)
+![MINHAZ's GitHub background](https://lh3.googleusercontent.com/proxy/kSiX6hyrYu7ImBOqy8YmimoLTqIIVA4EGcFDfLoxhNKwWBZEVLkGfpN8g_V_92EL9RMaDZjLfN81WP11G37Z_i3vdSXac9wtkmJ37AuJcgj01XrEXs8)
 <h1 align="center">Hi there <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">I'm Minhaz Uddin. </h1>
 <h3 align="center">I am a pre-final year engineering student at Banasthali Vidyapith. I make it my mission to translate user-focused designs into pixel-perfect websites and applications that run blazing fast.</h3>
 
