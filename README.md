@@ -1,4 +1,4 @@
-![MINHAZ's GitHub background](https://lh3.googleusercontent.com/proxy/kSiX6hyrYu7ImBOqy8YmimoLTqIIVA4EGcFDfLoxhNKwWBZEVLkGfpN8g_V_92EL9RMaDZjLfN81WP11G37Z_i3vdSXac9wtkmJ37AuJcgj01XrEXs8)
+![MINHAZ's GitHub background](<blockquote class="imgur-embed-pub" lang="en" data-id="FLMIwOI"  ><a href="//imgur.com/FLMIwOI">ooh banana!</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
 <h1 align="center">Hi there <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">I'm Minhaz Uddin. </h1>
 <h3 align="center">I am a pre-final year engineering student at Banasthali Vidyapith. I make it my mission to translate user-focused designs into pixel-perfect websites and applications that run blazing fast.</h3>
 
