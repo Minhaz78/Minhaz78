@@ -1,4 +1,12 @@
-![MINHAZ's GitHub background](http://www.anikhossain.com/wp-content/uploads/2021/07/multi.gif)
+
+
+<p align="center">
+  <a href="https://github.com/Shakilgithub20">
+    <img align="center" src="http://www.anikhossain.com/wp-content/uploads/2021/07/multi.gif" >
+  </a>
+</p>
+
+
 <h1 align="center">Hi there <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">I'm Minhaz Uddin. </h1>
 <h3 align="center">I am a pre-final year engineering student at premier university. I make it my mission to translate user-focused designs into pixel-perfect websites and applications that run blazing fast.</h3>
 
