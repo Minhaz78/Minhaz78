@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Shakilgithub20">
+  <a href="https://github.com/Minhaz78">
     <img align="center" src="https://c.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" >
   </a>
 </p>
@@ -8,7 +8,7 @@
 <h1 align="center">Hi there <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">I'm Minhaz Uddin. </h1>
 <h3 align="center">I am a pre-final year engineering student at premier university. I make it my mission to translate user-focused designs into pixel-perfect websites and applications that run blazing fast.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my  projects are available at [Minhaz Uddin](https://Minhaz78.github.io/).
 
@@ -19,10 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sakshiempowers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakshiempowers" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohammad-minhaz-uddin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-minhaz-uddin" height="30" width="40" /></a>
 <a href="https://codesandbox.com/Minhaz78" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="Minhaz78" height="30" width="40" /></a>
-<a href="https://medium.com/@sakshisaxena0808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sakshisaxena0808" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/Minhaz Uddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Minhaz Uddin" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sakshi_saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakshi_saxena" height="30" width="40" /></a>
 </p>
