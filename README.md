@@ -15,7 +15,7 @@ Passionate about leveraging technology to solve real-world problems, I'm on a jo
 ### 💼 Current Role
 
 **Associate – IT Technology Operations**  
-*A.P. Moller – Maersk | Melbourne, Australia | 2024 – Present*  
+*A.P. Moller – Maersk | Melbourne, Australia | 2025 – Present*  
 - Supporting global logistics operations by maintaining IT systems and ensuring business continuity.  
 - Configuring network switches and resolving connectivity issues across departments.  
 - Troubleshooting label printers, RDT devices, and other operational hardware.  
