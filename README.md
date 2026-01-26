@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi there <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">I'm Minhaz Uddin. </h1>
-<h3 align="center">Currently pursuing a Master of Information Technology at Central Queensland University. 🎓 Passionate about leveraging technology to solve real-world problems, I'm on a journey to deepen my understanding of software development and DevOps practices.</h3>
+<h3 align="center">I am a passionate and dedicated graduate with a Master of Information Technology from Central Queensland University. 🎓 Passionate about leveraging technology to solve real-world problems, I'm on a journey to deepen my understanding of software development and DevOps practices.</h3>
 
  
 
